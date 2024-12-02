@@ -1,10 +1,15 @@
-[{
-  "name": "Kibble Token",
-  "symbol": "KIBL",
-  "icon": "https://raw.githubusercontent.com/Oldremy87/kibble-token-metadata/main/Kibble%20Token%20Logo%20jpeg.jpg",
-  "decimals": 2,
-  "description": "The official currency of the Kennel Klub, built on the Nexa blockchain.",
-  "external_url": "https://www.kennelklub.org/"},
-"H7QnlzC/kIfGD2qh/McDJNtNIL09+ZD4nD6PRCyzW3ZKd6jkGyGwVHWWRYkb86d1SeG1VozMoCAocf0zdP0Q/XQ="
+[
+    {
+        "ticker": "KIBL",
+        "name": "Kibble Token",
+        "summary": "Official Currency of the Kennel Klub",
+        "description": "The official currency of the Kennel Klub, built on the Nexa blockchain. Use it to unlock exclusive features, participate in the community, and more.",
+        "creator": "Oldremy",
+        "contact": {
+            "twitter": "https://twitter.com/KennelKlub",
+            "email": "support@kennelklub.org"
+        },
+        "icon": "https://raw.githubusercontent.com/Oldremy87/kibble-token-metadata/main/Kibble%20Token%20Logo%20jpeg.jpg"
+    },
+    "H7QnlzC/kIfGD2qh/McDJNtNIL09+ZD4nD6PRCyzW3ZKd6jkGyGwVHWWRYkb86d1SeG1VozMoCAocf0zdP0Q/XQ="
 ]
-
