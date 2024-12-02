@@ -1,8 +1,8 @@
 {
   "name": "Kibble Token",
   "symbol": "KIBL",
-  "image": "https://raw.githubusercontent.com/Oldremy87/kibble-token-metadata/main/Kibble Token Logo jpeg.jpg
-",
+  "image": "https://raw.githubusercontent.com/Oldremy87/kibble-token-metadata/main/Kibble%20Token%20Logo%20jpeg.jpg
+"
   "decimals": 2,
   "description": "The official currency of the Kennel Klub, built on the Nexa blockchain.",
   "external_url": "https://www.kennelklub.org/"
